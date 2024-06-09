@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7E3&random=false&width=435&lines=Developing+%40IIITD" alt="Typing SVG"></a>
 
 
-<li> We are <a href = "https://github.com/IIIT-Delhi">BYLD</a>, the Software Development Club <a href = "https://iiitd.ac.in/">@IIITD</a>. </li>
+<li> We are <a href = "https://byld.iiitd.edu.in/">BYLD</a>, the Software Development Club <a href = "https://iiitd.ac.in/">@IIITD</a>. </li>
 <li> We're a bunch of students who love building apps and hacks using various tools and technologies. </li>
 <li> We majorly build and maintain projects for the institute. </li>
 <li> We also conduct Hackathons, DevCalls, and Tech talks for the student community. </li>
