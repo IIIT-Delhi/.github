@@ -9,7 +9,7 @@
 <li> We're a bunch of students who love building apps and hacks using various tools and technologies. </li>
 <li> We majorly build and maintain projects for the institute. </li>
 <li> We also conduct Hackathons, DevCalls, and Tech talks for the student community. </li>
-<li> We are currently led by <a href = "https://github.com/Vikranth3140">@Vikranth3140</a>, <a href = "https://github.com/FakePickle">@Harsh</a>, <a href = "https://github.com/Tharun-Ninja">@Tharun</a> & <a href = "https://github.com/aturtle4">@Armaan</a>. </li>
+<li> We are currently led by <a href = "https://github.com/Vikranth3140">@Vikranth3140</a> & <a href = "https://github.com/FakePickle">@Harsh</a>. </li>
 
 
 <h3 align="left">Languages and Tools:</h3>
