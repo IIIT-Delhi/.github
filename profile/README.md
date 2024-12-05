@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7E3&random=false&width=435&lines=Developing+%40IIITD" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7E3&random=false&width=435&lines=Developing+%40Software+%40IIIT-Delhi" alt="Typing SVG"></a>
 
 
 <li> We are <a href = "https://byld.iiitd.edu.in/">BYLD</a>, the Software Development Club <a href = "https://iiitd.ac.in/">@IIITD</a>. </li>
